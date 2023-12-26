@@ -55,7 +55,7 @@ status_checker=(valu) => {
                 // console.log("closed: ",i);
             }
         }
-        console.log(i); 
+        // console.log(i); 
     }   
 }
 
